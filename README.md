@@ -53,6 +53,12 @@ n - Network I/O
 
 ![image](https://github.com/user-attachments/assets/a566825b-6724-46b0-9382-160674862d58)
 
+t - Top-processes
+
+![image](https://github.com/user-attachments/assets/3d2725be-6ea4-40f2-9883-39f78d00f4ca)
+
+    #nmon -f -s 10 -c 30
+
 
 
 

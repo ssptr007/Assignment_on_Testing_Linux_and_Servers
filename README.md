@@ -1,4 +1,4 @@
-# Assignment_on_Testing_Linux_and_Servers
+![image](https://github.com/user-attachments/assets/d95ed410-a922-495b-903d-4bd7d2eaff2d)# Assignment_on_Testing_Linux_and_Servers
 
 **Task 1: System Monitoring Setup****
 **nmon (Nigel’s Monitor)** is a performance monitoring tool for Linux and AIX systems. It provides real-time CPU, memory, disk, network, and other system performance metrics in a simple terminal interface.
@@ -25,6 +25,42 @@ C - CPU information in detail
  ![image](https://github.com/user-attachments/assets/e0b92aee-bd23-4815-bc8b-ceb746efa120)
     
 m - Memory information
+
+![image](https://github.com/user-attachments/assets/3b514dc2-deab-463b-9be8-6b90f9bc6632)
+
+d - Disk I/O 
+
+![image](https://github.com/user-attachments/assets/5671f86a-6580-4629-8e09-bcccd5e73fb9)
+
+r - Resources Linux & Processor 
+
+![image](https://github.com/user-attachments/assets/9bb15607-58f4-4107-be89-2d4fb4917d75)
+
+k - Kernel and Load Average
+
+![image](https://github.com/user-attachments/assets/6fbe7e6a-b561-437b-a565-862b104a022c)
+
+U - CPU Utilisation Stats 
+
+![image](https://github.com/user-attachments/assets/0d3a3655-58b3-4155-a6d3-4222b6611146)
+
+V - Virtual memory
+
+![image](https://github.com/user-attachments/assets/da94f210-cc4c-4901-8f0e-6baf3401e6ec)
+
+n - Network I/O
+
+![image](https://github.com/user-attachments/assets/a566825b-6724-46b0-9382-160674862d58)
+
+
+
+
+
+
+
+
+
+
     
 
 

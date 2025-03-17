@@ -4,6 +4,7 @@
 **nmon (Nigel’s Monitor)** is a performance monitoring tool for Linux and AIX systems. It provides real-time CPU, memory, disk, network, and other system performance metrics in a simple terminal interface.
 
   **Installation of nmon**
+  
     #sudo apt update && sudo apt upgrade -y
 ![image](https://github.com/user-attachments/assets/21030fad-ca46-425d-affc-6d8803bb6284)
 

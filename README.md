@@ -13,14 +13,13 @@
     #nmon
  ![image](https://github.com/user-attachments/assets/c6667067-6ae7-4b57-b24e-6ba87df12964)
 
-    The above command will give several option to get system resource utilization. All the options are listed below
-    c - CPU information
+    The above command will give several option to get system resource utilization. All the options are listed belowc - CPU information
  ![image](https://github.com/user-attachments/assets/41a35fee-213a-489a-aa5a-4e93f9afa3b7)
     
-    C - CPU information in detail
+C - CPU information in detail
  ![image](https://github.com/user-attachments/assets/e0b92aee-bd23-4815-bc8b-ceb746efa120)
     
-    m - Memory information
+m - Memory information
     
 
 

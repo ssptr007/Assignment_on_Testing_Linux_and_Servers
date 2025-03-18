@@ -58,6 +58,11 @@ t - Top-processes
 ![image](https://github.com/user-attachments/assets/3d2725be-6ea4-40f2-9883-39f78d00f4ca)
 
     #nmon -f -s 10 -c 30
+      
+      It will create a .nmon file. The file name will be having hostname of the machine, followed by today's date and current time. For eg hostname_YYYYMMDD_HHMM.nmon
+        -f --> Creating the nmon extention file
+        -s --> Sample data every 10 seconds
+        -c --> Collects the 30 samples
 
 
 

@@ -83,6 +83,22 @@ After getting the html file. Open that in web browser. We will get the graphical
 
 ![image](https://github.com/user-attachments/assets/f804c9e2-2882-4879-9be7-0e0039ce248b)
 
+**df(disk free) command** --> Df(Disk Free) command used to get the information about disk utilization.
+
+![image](https://github.com/user-attachments/assets/a1fbc427-6ef1-4e51-aa13-2cf9a3dc31d1)
+
+    #df -h
+This command is used to get the disk utilization information.
+
+![image](https://github.com/user-attachments/assets/f4d8ef39-0136-4f55-bcf1-f58842ebd887)
+
+    #df -h /
+ This command is used to get the disk utilization information root root filesystem.
+
+ 
+
+
+
 
 
 

@@ -67,6 +67,23 @@ It will create a .nmon file. The file name will be having hostname of the machin
  
  -c --> Collects the 30 samples
 
+ To analyze .nmon files we are using nmonchart.
+
+ **nmonchart Installation**
+
+    #wget https://raw.githubusercontent.com/aguther/nmonchart/master/nmonchart
+
+    #chmod +x nmonchar
+
+    #sudo apt-get install mksh
+
+    #./nmonchart your_nmon_file.nmon output_report.html
+
+After getting the html file. Open that in web browser. We will get the graphical represention of system vitals utilization.
+
+![image](https://github.com/user-attachments/assets/f804c9e2-2882-4879-9be7-0e0039ce248b)
+
+
 
 
 

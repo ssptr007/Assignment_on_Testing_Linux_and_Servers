@@ -83,17 +83,37 @@ After getting the html file. Open that in web browser. We will get the graphical
 
 ![image](https://github.com/user-attachments/assets/f804c9e2-2882-4879-9be7-0e0039ce248b)
 
-**df(disk free) command** --> Df(Disk Free) command used to get the information about disk utilization.
+**df(disk free) command** --> df(Disk Free) command used to get the information about disk utilization.
 
 ![image](https://github.com/user-attachments/assets/a1fbc427-6ef1-4e51-aa13-2cf9a3dc31d1)
 
     #df -h
-This command is used to get the disk utilization information.
+This command is used to get the disk utilization information in human readable format.
 
 ![image](https://github.com/user-attachments/assets/f4d8ef39-0136-4f55-bcf1-f58842ebd887)
 
     #df -h /
+  -h - Is used to get the output in human readable format.
+  
  This command is used to get the disk utilization information root root filesystem.
+
+![image](https://github.com/user-attachments/assets/48958a24-92ac-4e5a-b27f-6d630c303fa7)
+
+**du(Disk Use) command** --> du(Disk Use) command is used to get usage of disk from perticular file or folder.
+
+![image](https://github.com/user-attachments/assets/86000541-eb8d-4c82-a223-954a06bd7df0)
+
+eg:
+
+    #du -sh filename
+
+![image](https://github.com/user-attachments/assets/87dcf2f8-55e1-4577-9a14-e7dfe0c49822)
+
+ 
+
+
+
+
 
  
 

@@ -133,8 +133,14 @@ We have tried to change password with weak password. We got the error. After we 
     #useradd -m mike -s /bin/bash
     
     #mkdir /home/sarah/workspace --> Run this command as Sarah
+
+    #chmod 700 /home/sarah/workspace
     
     #mkdir /home/mike/workspace --> Run this command as Mike
+
+    #chmod 700 /home/mike/workspace
+
+    
 
 
 

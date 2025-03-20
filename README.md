@@ -128,8 +128,11 @@ We have tried to change password with weak password. We got the error. After we 
 
 **Creation of user account for Sarah and mike and creating workspace for both users**
     #useradd -m sarah -s /bin/bash
+    
     #useradd -m mike -s /bin/bash
+    
     #mkdir /home/sarah/workspace --> Run this command as Sarah
+    
     #mkdir /home/mike/workspace --> Run this command as Mike
 
 

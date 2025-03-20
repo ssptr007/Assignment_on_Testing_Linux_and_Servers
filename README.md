@@ -109,7 +109,7 @@ eg:
 
 ![image](https://github.com/user-attachments/assets/87dcf2f8-55e1-4577-9a14-e7dfe0c49822)
 
-**<font size="15">Task 2: User Management and Access Control</font>**
+**<font size="20">Task 2: User Management and Access Control</font>**
  
  **Configuaring the complex password to the user**
 

@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/ae6af9e9-c608-4cc8-aa8c-d4fc2f79ab9f)
 
 **Task 1: System Monitoring Setup****
 
@@ -109,7 +109,28 @@ eg:
 
 ![image](https://github.com/user-attachments/assets/87dcf2f8-55e1-4577-9a14-e7dfe0c49822)
 
+**Task 2: User Management and Access Control**
  
+ **Configuaring the complex password to the user**
+
+Edit the file /etc/pam.d/system-auth. We need to the change line number 20 as like given below
+
+password    requisite                                    pam_pwquality.so retry=3 minlen=12 dcredit=-1 ucredit=-1 lcredit=-1 ocredit=-1 enforce_for_root
+
+![image](https://github.com/user-attachments/assets/1a276026-47d5-481e-ad5d-5fdc4ca611b5)
+
+After the we need to restart the sshd
+    #systemctl restart sshd
+
+We have tried to change password with weak password. We got the error. After we have given strong password it accepted. Please find the screenshot below.
+
+![image](https://github.com/user-attachments/assets/0dc53d28-f557-4c04-8cdd-f4547dff595f)
+
+
+
+
+
+
 
 
 

@@ -126,6 +126,11 @@ We have tried to change password with weak password. We got the error. After we 
 
 ![image](https://github.com/user-attachments/assets/0dc53d28-f557-4c04-8cdd-f4547dff595f)
 
+**Creation of user account for Sarah and mike and creating workspace for both users**
+    #useradd -m sarah -s /bin/bash
+    #useradd -m mike -s /bin/bash
+    #mkdir /home/sarah/workspace --> Run this command as Sarah
+    #mkdir /home/mike/workspace --> Run this command as Mike
 
 
 

@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/ae6af9e9-c608-4cc8-aa8c-d4fc2f79ab9f)
 
-**Task 1: System Monitoring Setup****
+**<h1>Task 1: System Monitoring Setup</h1>**
 
 **nmon (Nigel’s Monitor)** is a performance monitoring tool for Linux and AIX systems. It provides real-time CPU, memory, disk, network, and other system performance metrics in a simple terminal interface.
 

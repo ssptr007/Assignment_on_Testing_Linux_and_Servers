@@ -140,7 +140,12 @@ We have tried to change password with weak password. We got the error. After we 
 
     #chmod 700 /home/mike/workspace
 
-    
+** <h1>Task 3: Backup Configuration for Web Servers</h1>**
+
+**Sarah managing Apache webserver and Mike managing nginx webserver**
+This means only perticular user can restart the service
+    #echo "sarah ALL=(ALL) NOPASSWD: /usr/bin/systemctl restart httpd" > /etc/sudoers.d/sarah
+    #echo "mike ALL=(ALL) NOPASSWD: /usr/bin/systemctl restart nginx" > /etc/sudoers.d/mike
 
 
 
